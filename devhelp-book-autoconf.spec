@@ -6,6 +6,7 @@ Release:	2
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/autoconf.tar.gz
+# Source0-md5:	cf068496575356b53f0b4afe01ba3c98
 URL:		http://www.devhelp.net/
 Requires:	devhelp >= 0.5.0
 BuildArch:	noarch
