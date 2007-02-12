@@ -1,5 +1,5 @@
 Summary:	DevHelp book: autoconf
-Summary(pl.UTF-8):   Książka do DevHelpa o autoconfie
+Summary(pl.UTF-8):	Książka do DevHelpa o autoconfie
 Name:		devhelp-book-autoconf
 Version:	1.0
 Release:	2
